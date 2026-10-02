@@ -4,8 +4,8 @@ Projet conçu en équipe avec : Wilsen, Rémy, Viet
 
 ## Le problème
 
-- Problème : Il y a trop d'étapes et ce long système de réservation méticuleux rend le processus délicat, donc les élèves risquent de faire des erreurs.
-- Persona : ...
+- Problème : Il y a trop d'étapes et ce long système de réservation rend le processus méticuleux, donc les élèves risquent de faire des erreurs.
+- Persona : 
 
 ## La solution
 
